@@ -22,4 +22,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('django/',django,name='django'),
     path('yash/',yash,name='yash'),
+    path('reddy/',reddy,name='reddy'),
 ]
